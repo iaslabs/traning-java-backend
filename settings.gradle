@@ -1,1 +1,5 @@
-rootProject.name = 'level_1'
+rootProject.name = 'training-java-backend'
+include 'core'
+include 'infrastructure'
+include 'application'
+
